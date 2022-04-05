@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Olivia Seymour's Resume
 ---
 # Olivia Seymour
