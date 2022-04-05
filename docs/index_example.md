@@ -45,7 +45,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 __See above__
 
-`Feb 2019 - Sept 2019` __McDonald's Crew Member__
+`Feb 2019 - Sept 2019` __McDonald\'s Crew Member__
 
 - Efficient and effective work in a fast-paced environment.
 - Creating a positive experience for consumers.
