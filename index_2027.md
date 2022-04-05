@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Olivia Seymour's Resume
 ---
 # Olivia Seymour
 Detail-oriented software designer and statistics enthusiast.
